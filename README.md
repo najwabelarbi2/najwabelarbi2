@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @najwabelarbi2
 - 👀 I’m interested in AI/Computer Vision/Embedded Systems
-- 🌱 I’m currently learning 
+- 🌱 I’m currently an Intern looking for a full time job 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
